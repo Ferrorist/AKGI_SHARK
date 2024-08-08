@@ -1,7 +1,7 @@
 <img src="front-end/src/assets/sharklogo.png" alt="악기상어" width="160" height="160">
 
 
-## 프로젝트명 : 악기상어(akkishark) 
+## 프로젝트명 : 악기상어(akgishark) 
 
 
 ### 프로젝트 소개 : 본 프로젝트는 webRTC를 활용하여 온라인 상에서 타인과 같이 악기를 연습하거나 혼자서도 연습할 수 있는 환경을 제공해주는 것을 목적으로 한다.
@@ -11,64 +11,43 @@
 
 ### 개발 환경
 
-<p align="center">
-
 ## 협업 툴
 
 <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-
 <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
 
 ## IDE
 
 <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-
 <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 
 ## Infra
 
 <img src="https://img.shields.io/badge/amazonEC2-FF9900?style=for-the-badge&logo=amazonEC2&logoColor=white">
-
 <img src="https://img.shields.io/badge/amazons3-569a31?style=for-the-badge&logo=amazons3&logoColor=white">
-
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
 ## Front-End
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1e?style=for-the-badge&logo=javascript&logoColor=white">
-
 <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white">
-
 <img src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white">
-
 <img src="https://img.shields.io/badge/axios-5a29e4?style=for-the-badge&logo=axios&logoColor=white">
-
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-
 <img src="https://img.shields.io/badge/openvidu-333333?style=for-the-badge&logo=openvidu&logoColor=white">
 
 ## Back-End
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-
 <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white">
-
 <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
-
 </p>
 
 
@@ -123,27 +102,6 @@
 
 ## ERD 다이어그램
 <img src="assets/ssatudio ERD.PNG" alt="악기상어" width="600" height="400">
-
-## API 설계
-![alt text](<assets/API 설계.png>)
-
-![alt text](<assets/API 설계1.png>)
-
-![alt text](<assets/API 설계2.png>)
-
-![alt text](<assets/API 설계3.png>)
-
-![alt text](<assets/API 설계4.png>)
-
-![alt text](<assets/API 설계5.png>)
-
-![alt text](<assets/API 설계6.png>)
-
-![alt text](<assets/API 설계7.png>)
-
-![alt text](<assets/API 설계8.png>)
-
-![alt text](<assets/API 설계9.png>)
 
 ### 팀원 소개
 <img src="assets/팀원.PNG" alt="악기상어" width="450" height="400">
